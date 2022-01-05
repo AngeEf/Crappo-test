@@ -49,7 +49,7 @@ body {
   transition: 0.2s ease color;
 }
 .nav-link:hover {
-  color: var(--dark);
+  color: var(--blue);
 }
 .nav-link--register {
   background-color: var(--blue);
@@ -117,7 +117,7 @@ body {
   transition: 0.2s ease background-color;
 }
 .main-text--link:hover {
-  color: var(--dark);
+  color: var(--blue);
   background-color: var(--white);
 }
 .main-img {
